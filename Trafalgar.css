@@ -1,0 +1,159 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding-top: 40px;
+}
+
+
+.menu-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.home {
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22.59px;
+}
+
+.links {
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22.59px;
+    opacity: 50%;
+    color: #1F1534;
+}
+
+.logo {
+     width: 160px;
+     height: 41px;
+    top: 56px;
+    left: 191px;
+}
+
+/* hero section */
+
+.hero-section {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    top: 56px;
+    left: -50px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 50px;
+
+}
+
+.left-hero {
+    width: 445px;
+    height: 238px;
+    top: 283px;
+    left: 190px;
+    gap: 0;
+    border-radius: 55px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.hero-p {
+    font-family: "Mulish" sans-serif;
+    font-weight: 300;
+    line-height: 32px;
+    font-size: 21px;
+    color: #7D7987;
+}
+
+h1 {
+    font-family: "Mulish" sans-serif;
+    width: 427px;
+    height: 112px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.right-hero {
+    width: 693px;
+    height: 598px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.hero-image {
+    width: 593px;
+    height: 498px;
+    gap: 0px;
+    opacity: 0px;
+    padding-bottom: 120px;
+    top: 70px;
+}
+
+.consult-btn {
+    width: 150px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background-color: #458FF6;
+    border: 0;
+
+}
+
+.consult-txt {
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF; 
+}
+
+/* service section */
+.service-section {
+    width: 1675.58px;
+    height: 1000px;
+    top: 965px;
+    left: -266px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.service-optn {
+    width: 1120px;
+    /* height: 745px; */
+    top: 1224px;
+    left: 240px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+.service-section > .service-txt {
+    text-align: center;
+}
+
+ 
+.services {
+    width: 350px;
+    height: 354px;
+    top: 1224px;
+    left: 1010px;
+    gap: 0px;
+    opacity: 0px;
+}
